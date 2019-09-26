@@ -1,6 +1,7 @@
 # AutoConkyInstaller
 Tool programmed in Bash that automates the installation of Conky on Gnu / Linux systems based on Debian.
 ![alt text](http://offshell-system-comunity.110825.n8.nabble.com/file/n1/mundologo1offshellsystem.png)
+
 ·AutoConkyInstaller. Program install script of Conky Tools for Gnu/Linux-Debian and derivate.
 
 ·Software Freedom for user of the change.
