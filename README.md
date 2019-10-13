@@ -16,6 +16,8 @@ Tool programmed in Bash that automates the installation of Conky on Gnu / Linux 
 
 ·Visit our website : https://www.offshellsystem.tk/p/offsh...
 
-$ Si te gustan mis scripts, puedes invitarme a un café: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EERJ8BWALEMUG&source=url
+# ¿Que tal un café?
+Si te gustan mis Scripts, puedes invitarme a un café para animarme a seguir publicando más.
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EERJ8BWALEMUG&source=url
 
       Bye Bye Users Of This World.
