@@ -12,7 +12,7 @@ Tool programmed in Bash that automates the installation of Conky on Gnu / Linux 
 ·Donwload Script and more program in Bash and Python: 
  https://github.com/OffShellSystem/Aut...
 
-·OffShell System - Users Community.
+·OffShell System - Users Community. 
 
 ·Visit our website : https://www.offshellsystem.tk/p/offsh...
 
